@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estou cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando HTML, CSS e JavaScript
-- 💬 Ask me about ...
 - 😄 Pronouns: Ela/Dela
 
 
