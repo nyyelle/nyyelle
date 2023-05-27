@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Janyelle Oliveira
 
-- 🔭 Hoje estou cursando Análise e Desenvolvimento de Sistemas
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando HTML, CSS e JavaScript
 - 😄 Pronouns: Ela/Dela
 
