@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Janyelle Oliveira
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Ela/Dela
+
 
 
 <div>
