@@ -1,4 +1,4 @@
-### Olá! Eu sou a Janyelle Oliveira
+### Olá! Eu sou Janyelle Oliveira 
 
 - 🔭 Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas
 
